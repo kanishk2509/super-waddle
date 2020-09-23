@@ -1,5 +1,4 @@
 ﻿Tool,Title,Author,Year,Affiliation,Abstract,Journal
-string,number,number,number,number,number,number
 GROBID,1,1,0.092702953,0.954869359,1,0
 Docsplit,0,0,0,0,0,0
 Svm-Header-Parse,0.011664541,0.003597633,0.938948484,0.000950119,0.000916465,0
