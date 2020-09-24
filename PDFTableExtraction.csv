@@ -1,4 +1,4 @@
-﻿Tool,Correctly identifed  number of tables,number of cells with contents
+﻿Tool,correct_identification,num_cells_with_contents
 Tabula,1,0.74
 Tabulizer,0.96,0.59
 Tabula-py,0.35,0.26
